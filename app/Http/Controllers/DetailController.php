@@ -46,3 +46,5 @@ class DetailController extends Controller
         return redirect()->route('cart');
     }
 }
+
+// update
